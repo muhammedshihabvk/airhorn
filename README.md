@@ -3,6 +3,7 @@
 A new Flutter application.
 
 ![Image description](sample.PNG)
+![Image description](sample2.PNG)
 
 ## Getting Started
 
