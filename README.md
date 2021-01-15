@@ -1,7 +1,8 @@
 # airhorn
 
 A new Flutter application.
-![Image description](sample.png)
+
+![Image description](sample.PNG)
 
 ## Getting Started
 
